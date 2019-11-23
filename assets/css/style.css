@@ -1,0 +1,28 @@
+.container{
+    font-family: "Arial" , "Helvetica Neue", Helvetica, sans-serif;
+    color: #777777;
+    background-image: url("assets/images/squared_metal.png");
+    border-color: #dddddd;
+}
+header{
+    font-family: "Georgia", Times, Times New Roman, serif;
+   
+    border-color: #cccccc;
+  
+    margin-bottom: 20px;
+}
+
+nav{
+    background-color: #ffffff;
+
+}
+.aboutMe h2{
+    color: #4aaaa5;
+}
+#logo{
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+footer{
+    background-color: #666666;
+}
