@@ -58,7 +58,15 @@ img{
     float: left;
     margin: 11px 15px 15px 0;
 }
-.text-box{
+#text-box1{
+    position: absolute;
+    background: #4aaaa5;
+    color:#ffffff;
+    width: 200px;
+    top: 270px;
+    text-align: center;
+}
+#text-box2{
     position: absolute;
     background: #4aaaa5;
     color:#ffffff;
