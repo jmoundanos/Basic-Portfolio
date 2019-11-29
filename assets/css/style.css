@@ -38,7 +38,7 @@ li{
     list-style-type: none;
 }
 a{
-    padding: 12px;
+    padding: 11px;
     display: inline-block;
     text-decoration: none;
     color:#777777;
@@ -58,26 +58,23 @@ img{
     float: left;
     margin: 11px 15px 15px 0;
 }
-#text-box1{
+.text-box{
     position: absolute;
     background: #4aaaa5;
     color:#ffffff;
     width: 200px;
-    top: 270px;
+    bottom: 25px;
     text-align: center;
 }
-#text-box2{
-    position: absolute;
-    background: #4aaaa5;
-    color:#ffffff;
-    width: 200px;
-    top: 270px;
-    text-align: center;
-    
+.container{
+    position: relative;
+    display: flex;
 }
+
 .row{
     display:flex;
     margin-right: 200px;
+    
 }
 .column{
     flex: 50%;
