@@ -96,6 +96,26 @@ p{
     width: 300px;
     display: inline-block;
 }
+label{
+    margin: 10px 0 10px 0;
+}
+input[type=text]{
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0 10px 0;
+}
+#message{
+    height: 200px;
+    width: 100%;
+    margin-top: 10px
+}
+input[type=submit]{
+    margin-top: 20px;
+    padding: 10px 30px 10px 30px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: none;
+}
 footer{
     background-color: #666666;
     position: fixed;
