@@ -43,6 +43,9 @@ a{
     text-decoration: none;
     color:#777777;
 }
+a:hover{
+    color:#4aaaa5;
+}
 
 section{
     background: #ffffff; 
@@ -114,6 +117,9 @@ input[type=submit]{
     color: #ffffff;
     border: none;
 }
+input[type=submit]:hover{
+    background-color: #777777;
+}
 footer{
     background-color: #666666;
     position: fixed;
@@ -121,6 +127,6 @@ footer{
     left: 0px;
     width: 100%;
     text-align: center;
-    border-top: 5px solid #4aaaa5;
+    border-top: 8px solid #4aaaa5;
     color: #ffffff;
 }
