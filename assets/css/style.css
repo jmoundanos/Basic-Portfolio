@@ -16,6 +16,8 @@ body{
     color: #777777;
     background-color: #ffffff;
     position: relative;
+    display: flex;
+    justify-content: center;
     
 }
 header{
